@@ -38,6 +38,6 @@ int main()
 
     // Memoria felszabaditasa
     delete[] b;
-
+    std::cout << "Comment" << std::endl;
     return 0;
 }
